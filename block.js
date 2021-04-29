@@ -1,5 +1,6 @@
 const SHA256 = require ('crypto-js/sha256');
 
+
 class Block{
 //Index= identificador de la posicion del bloque en la cadena
 //Data= el contenido del bloque

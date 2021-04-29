@@ -1,5 +1,6 @@
 const Block =require('./block');
 
+
 class BlockChain{
 
   constructor(origin, difficulty='000'){
